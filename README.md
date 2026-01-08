@@ -3,8 +3,9 @@
 自动解析型富文本组件
 
 ## 效果预览
+* 在线预览：[Online Demo](https://limevista.github.io/auto_rich_text_example/)
 
-暂无预览图
+![预览图](./art/preview.png)
 
 ## 快速使用
 
@@ -148,9 +149,9 @@ final class AutoRichTextSettings {
 
 ### 字体图标标签 `icon`
 
-| 语法             | 描述         |
-|:---------------|:-----------|
-| `<icon=sans/>` | 设置字体为 sans |
+| 语法                                       | 描述                           |
+|:-----------------------------------------|:-----------------------------|
+| `<icon='code:1; font-family:IconFont'/>` | 显示编码为 `1` 字体为 `IconFont` 的图标 |
 
 #### 参数
 
