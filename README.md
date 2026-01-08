@@ -14,7 +14,7 @@ An auto-parsing rich text widget.
 ## Preview
 
 * **Live Demo:** [Online Demo](https://limevista.github.io/auto_rich_text_example/)
-* **Example:** [Online Demo](https://github.com/limevista/auto_rich_text_example)
+* **Example:** [Example](https://github.com/limevista/auto_rich_text_example)
 
 ![预览图](/art/preview.png)
 
