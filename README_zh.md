@@ -14,9 +14,9 @@
 自动解析型富文本组件
 
 ## 效果预览
-* 在线预览：[Online Demo](https://limevista.github.io/auto_rich_text_example/)
+* **在线预览** [Online Demo](https://limevista.github.io/auto_rich_text_example/)
 
-![预览图](./art/preview.png)
+![预览图](/art/preview.png)
 
 ## 快速使用
 
