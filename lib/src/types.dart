@@ -21,6 +21,7 @@ typedef OnEventCallback = void Function(AutoRichTextEvent event);
 /// 引用回调
 typedef OnRefCallback = TextSpan Function(String ref, TextStyle style);
 
+/// 事件类型
 enum AutoRichTextEventType {
   /// 触摸事件，对应的子事件类型为 [$supportTapSubTypes]
   tap,
@@ -31,6 +32,7 @@ enum AutoRichTextEventType {
 
 /// 产生事件
 final class AutoRichTextEvent {
+  /// 创建事件
   const AutoRichTextEvent(this.type, this.subType, this.id, this.args, this.extra);
 
   /// 事件类型

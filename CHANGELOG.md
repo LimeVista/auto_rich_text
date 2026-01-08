@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 ## [1.0.0+1] - 2026-01-09
 
+### 文档格式
+- **调整文档**: 完善文档和代码格式。
+
+## [1.0.0+1] - 2026-01-09
+
 ### 修复
 - **调整文档**: 完善文档。
 

@@ -133,6 +133,7 @@ class AutoRichText extends StatefulWidget {
   AutoRichTextState createState() => AutoRichTextState._();
 }
 
+/// 状态类
 @visibleForTesting
 final class AutoRichTextState extends State<AutoRichText> {
   ///#region 构造函数

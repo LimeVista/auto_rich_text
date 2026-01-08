@@ -5,13 +5,13 @@ enum _Type {
   /// 字符串
   string,
 
-  /// 属性开始：<color=#FFFFFF>
+  /// 属性开始：`<color=#FFFFFF>`
   attrBegin,
 
-  /// 属性结束：</color>
+  /// 属性结束：`</color>`
   attrEnd,
 
-  /// 单元素：<icon/>
+  /// 单元素：`<icon/>`
   element;
 
   String toDebugName() {
