@@ -1,7 +1,8 @@
 name: auto_rich_text
-description: "Auto Rich Text."
+description: A high-performance auto-parsing rich text widget inspired by game engines. Supports tags for style, icons, images, and gradients.
 version: 1.0.0
 homepage: https://github.com/LimeVista/auto_rich_text
+repository: https://github.com/limevista/auto_rich_text
 
 environment:
   sdk: '>=3.6.0 <4.0.0'
